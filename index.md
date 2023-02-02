@@ -37,7 +37,7 @@ During my work I deal with: **python3**, **fastapi**, **sqlalchemy**, **redis**,
 
     *MSU student union*
 
-    I am developing microservices in the MSU Students' Association. Developed two microservices from scratch, a library for working with one of the     microservices. The following tasks have been solved:
+    I am developing microservices in the MSU Students' Association. This application is used by more than 500 people a week. Developed two microservices from scratch, a library for working with one of the microservices. The following tasks have been solved:
     
     -Implementation of API handles according to REST API specifications
 
