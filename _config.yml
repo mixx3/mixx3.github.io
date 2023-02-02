@@ -9,7 +9,7 @@ language: Russian, English
 
 show_contacts: true
 mailto: mailto:semen603089@mail.ru
-cv_pdf_link: https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/cv_pdf.pdf
+cv_pdf_link: https://github.com/grigoriev-semyon/grigoriev-semyon.github.io/blob/e728549a99ce5edd26e98f5050349a0425e3528f/pdf/cv-pdf.pdf
 
 remote_theme: annndruha/minimal-resume
 plugins:
