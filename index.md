@@ -45,6 +45,7 @@
 
     A module for database migrations has been implemented - changing the structure of the database (or changing
     table structures) without data loss. The following tasks have been solved:
+
    -Creating and modifying objects in the database
 
    -Getting the status of any version of the database
@@ -54,11 +55,11 @@
 
 # <a id="projects" href="#projects">🧩 Open source projects</a>
 
-* **[EPC-MSU/epdetection](https://github.com/EPC-MSU/epdetection)** - Module to detect PCB components by neural network
-* **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Chrome extension for newtab
-* **[Sessiya Bot](https://github.com/Annndruha/sessiyabot)** - VKontakte Chat-bot for students
-* **[Music Files Normalizer](https://github.com/Annndruha/music_files_normalizer)** - Program for mass correction of .mp3 file names
+* **[Timetable API](https://github.com/profcomff/timetable-api)** - Microservice of the schedule of the application "Your Physics Department"
+* **[Auth API](https://github.com/profcomff/auth-api)** - Microservice of authentication of the application "Your Physics Department"
+* **[Auth Lib](https://github.com/profcomff/auth-lib)** - Library for working with API authentication of the application "Your Physics Department"
+* **[Data WareHouse](https://github.com/grigoriev-semyon/datatool-db-engine)** - A module for database migrations
 
 # <a id="contacts" href="#contacts">📧 Contacts</a>
-* Mail: [annndruha.github@gmail.com](mailto:annndruha.github@gmail.com)
-* Profile on [Github](https://github.com/Annndruha)
+* Mail: [semen603089@mail.ru](mailto:semen603089@mail.ru)
+* Profile on [Github](https://github.com/grigoriev-semyon)
