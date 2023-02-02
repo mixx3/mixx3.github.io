@@ -13,6 +13,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Java" width="40" height="40"/>
     <img src="assets/icons/pycharm.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>
+    <br/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>
     <img src="assets/icons/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>
@@ -64,7 +65,7 @@ During my work I deal with: **python3**, **fastapi**, **sqlalchemy**, **redis**,
 * **[Timetable API](https://github.com/profcomff/timetable-api)** - Microservice of the schedule of the application "Your Physics Department"
 * **[Auth API](https://github.com/profcomff/auth-api)** - Microservice of authentication of the application "Your Physics Department"
 * **[Auth Lib](https://github.com/profcomff/auth-lib)** - Library for working with API authentication of the application "Your Physics Department"
-* **[Data WareHouse](https://github.com/grigoriev-semyon/datatool-db-engine)** - A module for database migrations
+* **[Data WareHouse Migration Engine](https://github.com/grigoriev-semyon/datatool-db-engine)** - A module for database migrations
 
 # <a id="contacts" href="#contacts">📧 Contacts</a>
 * Mail: [semen603089@mail.ru](mailto:semen603089@mail.ru)
