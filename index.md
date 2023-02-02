@@ -2,7 +2,7 @@
 # <a id="education" href="#education">🎓 Education</a>
 
 * ### Lomonosov Moscow State University
-    (Moscow) Faculty of Physics, Department of Applied Mathematics
+    Faculty of Physics, Department of Applied Mathematics
 
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
