@@ -36,14 +36,21 @@
     *MSU student union*
 
     I was engaged in the development of microservices in the association of students of Moscow State University.
-    Developed two microservices from scratch, a library for working with one of the microservices. During my work I deal with python3, fastapi, sqlalchemy, redis, pydantic, pytest, docker, github actions, asyncio, postgresql
+    Developed two microservices from scratch, a library for working with one of the microservices.
+
+    During my work I deal with: **python3**, **fastapi**, **sqlalchemy**, **redis**, **pydantic**, **pytest**, **docker**, **GitHub Actions**, **asyncio**, **postgresql**
 
 
-* ### Teacher of neural networks courses
+* ### Pet project
 
-    *Lomonosov Moscow State University*
+    A module for database migrations has been implemented - changing the structure of the database (or changing
+    table structures) without data loss. The following tasks have been solved:
+   -Creating and modifying objects in the database
 
-    I teach a one-year Neural Networks course for postgraduate MSU students. The course covers a wide range of neural networks types, deals with solving various problems. In the second part of the course, students did implemented neural networks in their scientific work under my guidance
+   -Getting the status of any version of the database
+
+   -Applying and rolling back versions
+   Stack: **python3**, **fastapi**, **sqlalchemy**, **postgresql**, **pydantic**
 
 # <a id="projects" href="#projects">🧩 Open source projects</a>
 
