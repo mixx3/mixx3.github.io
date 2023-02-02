@@ -1,48 +1,31 @@
-<a style="display:none;">Andrey Marakulin CV</a>
+<a style="display:none;">Semyon Grigoryev CV</a>
 # <a id="education" href="#education">🎓 Education</a>
 
 * ### Lomonosov Moscow State University
-    (Moscow) Faculty of Physics, department of particles physics
-
-* ### Sirius University of Science and Technology
-    (Adler Microdistrict) Mathematical Robotics and Artificial Intelligence
+    (Moscow) Faculty of Physics, applied mathematics department
 
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
 * ### Primary stack: 
-    Python, ML, DL, Computer vision
+    Python Backend
     <p align="left">
-      <img src="assets/icons/python.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/jupyter.svg" width=25px style="padding-right:5px;">
-      <img src="assets/icons/pytorch.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/tensorflow.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/numpy-icon.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/pandas-icon.svg" width=30px style="padding-right:5px;">
-      <img src="assets/icons/opencv.svg" width=30px style="padding-right:5px;">
-    </p>
-
-* ### Secondary stack
-    Desktop apps, web, UI
-    <p align="left">
-      <img src="assets/icons/c-plusplus.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/qt.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/html-5.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/css-3.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/javascript.svg" width=35px style="padding-right:5px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" **alt="Java" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" **alt="Pycharm" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" **alt="FastAPI" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" **alt="SQLAlchemy" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Java" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" **alt="Java" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="LaTeX" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>
     </p>
 
 
 * ### Other
     CI/CD, Automatization, Scripting, SQL
-    <p align="left">
-      <img src="assets/icons/git-icon.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/mercurial.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/github-icon.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/gitlab.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/postgresql.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/linux-tux.svg" width=35px style="padding-right:5px;">
-      <img src="assets/icons/docker-icon.svg" width=35px style="padding-right:5px;">
-    </p>
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
 
