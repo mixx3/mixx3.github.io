@@ -1,14 +1,14 @@
-fullname: Andrey Marakulin
+fullname: Grigoriev Semyon
 favicon: /assets/images/favicon.svg
-logo: /assets/images/photo.png
+logo: /assets/images/photo.jpg
 
 show_info: true
-age: 23 y.o.
+age: 20 y.o.
 location: Russia
 language: Russian, English
 
 show_contacts: true
-mailto: mailto:annndruha.github@gmail.com
+mailto: mailto:semen603089@mail.ru
 cv_pdf_link: https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/cv_pdf.pdf
 
 remote_theme: annndruha/minimal-resume
