@@ -2,7 +2,7 @@
 # <a id="education" href="#education">🎓 Education</a>
 
 * ### Lomonosov Moscow State University
-    (Moscow) Faculty of Physics, applied mathematics department
+    (Moscow) Faculty of Physics, Department of Applied Mathematics
 
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
@@ -15,7 +15,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>
     <img src="assets/icons/docker.svg" title="Docker" alt="Java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="Java" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>
     <img src="assets/icons/pycharm.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>
@@ -23,9 +22,10 @@
 
 
 * ### Other
-    CI/CD, Automatization, Scripting, SQL
+    CI/CD using GitHub Actions, Testing
     <p>
     <img src="assets/icons/github.svg" title="Github" alt="Pycharm" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="Java" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
     </p>
 
