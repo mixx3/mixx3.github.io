@@ -30,16 +30,24 @@
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
 
+During my work I deal with: **python3**, **fastapi**, **sqlalchemy**, **redis**, **pydantic**, **pytest**, **docker**, **GitHub Actions**, **asyncio**, **postgresql**, **setuptools**
+
 * ### Python back-end developer
 
     *MSU student union*
 
-    I am developing microservices in the MSU Students' Association. Developed two microservices from scratch, a library for working with one of the     microservices.
+    I am developing microservices in the MSU Students' Association. Developed two microservices from scratch, a library for working with one of the     microservices. The following tasks have been solved:
+    
+    -Implementation of API handles according to REST API specifications
 
-    During my work I deal with: **python3**, **fastapi**, **sqlalchemy**, **redis**, **pydantic**, **pytest**, **docker**, **GitHub Actions**, **asyncio**, **postgresql**, **setuptools**
+    -The logic of the schedule, comments to teachers, photos of teachers
+
+    -The logic of authentication and authorization in the application
+
+    -Integration of authentication and authorization into existing microservices
 
 
-* ### Pet project
+* ### Data WareHouse
 
     A module for database migrations - changing the structure of the database (or changing
     table structures) without data loss. The following tasks have been solved:
@@ -49,8 +57,7 @@
    -Getting the status of any version of the database
 
    -Applying and rolling back versions
-   
-   Stack: **python3**, **fastapi**, **sqlalchemy**, **postgresql**, **pydantic**, **asyncio**
+  
 
 # <a id="projects" href="#projects">🧩 Open source projects</a>
 
