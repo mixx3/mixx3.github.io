@@ -35,15 +35,14 @@
 
     *MSU student union*
 
-    I was engaged in the development of microservices in the association of students of Moscow State University.
-    Developed two microservices from scratch, a library for working with one of the microservices.
+    I am developing microservices in the MSU Students' Association. Developed two microservices from scratch, a library for working with one of the     microservices.
 
     During my work I deal with: **python3**, **fastapi**, **sqlalchemy**, **redis**, **pydantic**, **pytest**, **docker**, **GitHub Actions**, **asyncio**, **postgresql**
 
 
 * ### Pet project
 
-    A module for database migrations has been implemented - changing the structure of the database (or changing
+    A module for database migrations - changing the structure of the database (or changing
     table structures) without data loss. The following tasks have been solved:
 
    -Creating and modifying objects in the database
@@ -51,7 +50,8 @@
    -Getting the status of any version of the database
 
    -Applying and rolling back versions
-   Stack: **python3**, **fastapi**, **sqlalchemy**, **postgresql**, **pydantic**
+   
+   Stack: **python3**, **fastapi**, **sqlalchemy**, **postgresql**, **pydantic**, **asyncio**
 
 # <a id="projects" href="#projects">🧩 Open source projects</a>
 
