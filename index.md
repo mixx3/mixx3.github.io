@@ -14,9 +14,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Java" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>
-    <img src="assets/icons/docker.svg" title="Docker" alt="Java" width="40" height="40"/>
+    <img src="assets/icons/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>
     <img src="assets/icons/pycharm.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>
     </p>
 
@@ -37,7 +36,7 @@
 
     I am developing microservices in the MSU Students' Association. Developed two microservices from scratch, a library for working with one of the     microservices.
 
-    During my work I deal with: **python3**, **fastapi**, **sqlalchemy**, **redis**, **pydantic**, **pytest**, **docker**, **GitHub Actions**, **asyncio**, **postgresql**
+    During my work I deal with: **python3**, **fastapi**, **sqlalchemy**, **redis**, **pydantic**, **pytest**, **docker**, **GitHub Actions**, **asyncio**, **postgresql**, **setuptools**
 
 
 * ### Pet project
