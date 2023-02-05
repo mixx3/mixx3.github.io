@@ -35,7 +35,7 @@ During my work I deal with: **python3**, **fastapi**, **sqlalchemy**, **redis**,
 
 * ### Python back-end developer
 
-    *MSU student union*
+    *Application "Your Faculty of Physics"*
 
     I am developing microservices in the MSU Students' Association. This application is used by more than 500 people a week. Developed two microservices from scratch, a library for working with one of the microservices. The following tasks have been solved:
     
@@ -48,7 +48,7 @@ During my work I deal with: **python3**, **fastapi**, **sqlalchemy**, **redis**,
     -Integration of authentication and authorization into existing microservices
 
 
-* ### Data WareHouse
+  *Data WareHouse*
 
     A module for database migrations - changing the structure of the database (or changing
     table structures) without data loss. The following tasks have been solved:
